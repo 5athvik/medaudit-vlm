@@ -1,0 +1,622 @@
+[
+  {
+    "image": "data/raw/rx_0.png",
+    "ground_truth": [
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_1.png",
+    "ground_truth": [
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      },
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_2.png",
+    "ground_truth": [
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      },
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_3.png",
+    "ground_truth": [
+      {
+        "drug": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily morning"
+      },
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_4.png",
+    "ground_truth": [
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      },
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_5.png",
+    "ground_truth": [
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      },
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_6.png",
+    "ground_truth": [
+      {
+        "drug": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily morning"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_7.png",
+    "ground_truth": [
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_8.png",
+    "ground_truth": [
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      },
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_9.png",
+    "ground_truth": [
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_10.png",
+    "ground_truth": [
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_11.png",
+    "ground_truth": [
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_12.png",
+    "ground_truth": [
+      {
+        "drug": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily morning"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_13.png",
+    "ground_truth": [
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_14.png",
+    "ground_truth": [
+      {
+        "drug": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily morning"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_15.png",
+    "ground_truth": [
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      },
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_16.png",
+    "ground_truth": [
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      },
+      {
+        "drug": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily morning"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_17.png",
+    "ground_truth": [
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_18.png",
+    "ground_truth": [
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_19.png",
+    "ground_truth": [
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      },
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_20.png",
+    "ground_truth": [
+      {
+        "drug": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily morning"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_21.png",
+    "ground_truth": [
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_22.png",
+    "ground_truth": [
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_23.png",
+    "ground_truth": [
+      {
+        "drug": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily morning"
+      },
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_24.png",
+    "ground_truth": [
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_25.png",
+    "ground_truth": [
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      },
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_26.png",
+    "ground_truth": [
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      },
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_27.png",
+    "ground_truth": [
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      },
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_28.png",
+    "ground_truth": [
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      },
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_29.png",
+    "ground_truth": [
+      {
+        "drug": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily morning"
+      },
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_30.png",
+    "ground_truth": [
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      },
+      {
+        "drug": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily morning"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_31.png",
+    "ground_truth": [
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_32.png",
+    "ground_truth": [
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_33.png",
+    "ground_truth": [
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      },
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_34.png",
+    "ground_truth": [
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_35.png",
+    "ground_truth": [
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      },
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_36.png",
+    "ground_truth": [
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_37.png",
+    "ground_truth": [
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_38.png",
+    "ground_truth": [
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      },
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_39.png",
+    "ground_truth": [
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_40.png",
+    "ground_truth": [
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_41.png",
+    "ground_truth": [
+      {
+        "drug": "Levothyroxine",
+        "dosage": "50mcg",
+        "frequency": "Before breakfast"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_42.png",
+    "ground_truth": [
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      },
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_43.png",
+    "ground_truth": [
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_44.png",
+    "ground_truth": [
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      },
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_45.png",
+    "ground_truth": [
+      {
+        "drug": "Amoxicillin",
+        "dosage": "250mg",
+        "frequency": "Every 8 hours"
+      },
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_46.png",
+    "ground_truth": [
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      },
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_47.png",
+    "ground_truth": [
+      {
+        "drug": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily morning"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_48.png",
+    "ground_truth": [
+      {
+        "drug": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      },
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  },
+  {
+    "image": "data/raw/rx_49.png",
+    "ground_truth": [
+      {
+        "drug": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "At bedtime"
+      }
+    ]
+  }
+]
